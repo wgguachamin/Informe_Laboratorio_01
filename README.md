@@ -16,5 +16,16 @@ Uno de los métodos ampliamente utilizados en el análisis de circuitos eléctri
 1.	Ley de Kirchhoff de Corrientes: La suma de las corrientes que entran a un nodo es igual a la suma de las corrientes que salen del mismo. 
 2.	Ley de Kirchhoff de Voltajes: La suma de las caídas de voltaje en una trayectoria cerrada es igual a la suma de las elevaciones de voltaje en la misma.
 
+1.4 MATERIAL Y EQUIPO REQUERIDO
+
+![image](https://user-images.githubusercontent.com/94008521/141698864-5d3138ad-769a-48ca-8b1b-3e973fdf1064.png)
+
+1.5. PROCEDIMIENTO
+
+![image](https://user-images.githubusercontent.com/94008521/141698943-d44b089d-893e-420c-93d5-28869c028a52.png)
+
+1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
+
+Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
 
