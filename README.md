@@ -1,1 +1,1 @@
-# Informe_Laboratorio_01
+#PRÁCTICA N°01 LEYES DE KIRCHHOFF
