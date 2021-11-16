@@ -183,4 +183,10 @@ Para el voltaje en cada resistencia se tiene que:
 
 1.8. BIBLIOGRAFÍA
 
+-	Acosta, I. (19 de Marzo de 2016). Obtenido de https://geekelectronica.com/leyes-de-kirchhoff/
+-	Arencibia, J. (12 de Marzo de 2014). Obtenido de https://www3.gobiernodecanarias.org/medusa/ecoblog/fsancac/2014/03/12/leyes-de-kirchhoff/
+-	González, V. (26 de Marzo de 2020). Obtenido de https://piensa3d.com/ley-voltaje-kirchhoff-metodo-mallas/
+-	Mecatrónica LATAM. (22 de Abril de 2021). Obtenido de https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
+-	Zapata, F. (02 de Junio de 2021). Obtenido de https://www.lifeder.com/leyes-kirchhoff/
+
 
