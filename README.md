@@ -145,6 +145,8 @@ Ahora aplicando las siguiente definiciones de circuitos series y paralelo.
 - En los circuitos en paralelo, la intensidad de corriente se distribuye entre cada rama, siendo la suma de todas las intensidades igual a la total.
 - En los circuitos en paralelo, la tensión es la misma para todos los elementos.
 
+Se tiene que el voltaje y la corriente en cada resistencia es: 
+
 
 1.5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
