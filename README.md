@@ -153,6 +153,47 @@ Por lo que la tabla completa con los valores es:
 
 ![image](https://user-images.githubusercontent.com/94008521/141879377-0c0f702e-db98-4ba8-9bfd-1a9688f9535f.png)
 
+1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
+
+     Tabla 1.2. Verificación de la LVK.
+     
+ ![image](https://user-images.githubusercontent.com/93960809/141886616-ea2cdd8c-f1ba-43e8-855c-8da71e25935a.png)
+
+Para la realización de los cálculos mostrados en la tabla 1.2 en primer lugar se identificó cada una de las trayectorias existentes dentro del circuito mixto.
+Posterior a eso, se realiza la suma total de resistencias presentes dentro de cada trayectoria, para así poder aplicar la ley de Ohm que nos dice que: 
+
+![image](https://user-images.githubusercontent.com/93960809/141887513-22ecb7ad-7c17-4960-99ee-afade522638f.png)
+
+Al aplicar dicha ley, se logra encontrar la corriente total de cada trayectoria.
+Luego, con esa misma ley y con el dato de corriente que ya tenemos, se procede a evaluar el voltaje en cada una de las resistencias.
+
+Ya con el valor de cada uno de los voltajes y el valor de voltaje de la fuente principal, se procede a comprobar si se cumple la ley del voltaje de Kirchhoff que nos dice que: 
+
+![image](https://user-images.githubusercontent.com/93960809/141887826-0e85c66e-75d5-4065-bacc-4ce1910b4493.png)
+
+Donde el subíndice n representa el número de caídas de voltaje. 
+
+Al reemplazar los valores de voltajes en la ley de Kirchhoff y obtener una igualdad entre el voltaje de la fuente y los voltajes en las resistencias de cada trayectoria se comprueba que En un circuito, la suma de todas las caídas de voltaje localizadas en una trayectoria cerrada única es igual al voltaje de fuente total encontrado en dicha espira.
+
+A continuación, el ejemplo de cómo se realizaron los cálculos para la trayectoria 1. Y ese mismo proceso se aplicó para todas las trayectorias.
+
+![CamScanner 11-15-2021 21 48-1](https://user-images.githubusercontent.com/93960809/141888254-1b48e7d1-95c2-496d-9cf8-c36304d6e892.jpg)
+
+Como último punto a tratar de la sección 1.5.3, se mostrará la realización y medición de cada uno de los trayectos del circuito elaborados en Tinkercad:
+
+     Trayectoria 1: 
+    
+![image](https://user-images.githubusercontent.com/93960809/141888796-ae9f434b-c792-40f4-aa6b-fa233ddd27a3.png)
+
+     Trayectoria 2: 
+    
+![image](https://user-images.githubusercontent.com/93960809/141888835-ef8bc7f0-9ab9-4448-9e1d-1eaf8d6bc68b.png)
+
+     Trayectoria 3: 
+     
+![image](https://user-images.githubusercontent.com/93960809/141888867-23a9f693-99fb-4d0b-b6ca-21b982f0b7ea.png)
+
+
 1.5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 Como resultado de este laboratorio se tiene que el momento de realizar los calculos se debe tener en cuenta siempre a las mallas y a los nodos del circuito, de lo contrario puede llegar a ser insuficiente los datos o simplemente las ecuaciones se podrían tornar dependientes por lo cual ya no se optendría las respuestas requeridas.
@@ -175,11 +216,16 @@ Para el voltaje en cada resistencia se tiene que:
 
 ![image](https://user-images.githubusercontent.com/94008521/141881264-65bb3961-5562-4d31-9286-159692374ca4.png)
 
+Para obtener el porcentaje de error que se produce al realizar los cálculos de voltaje por trayectorias comparado con sus mediciones tomadas del laboratorio virtual Tinkercad, se tiene lo siguiente en las trayectorias 1, 2 y 3: 
+
+![image](https://user-images.githubusercontent.com/93960809/141890062-4d3e04a9-68af-4bfc-b0f0-366afad5e0aa.png)
+
 1.6. VIDEO
 
 1.7. CONCLUSIONES
 
 - Como conclusión se tiene las Leyes de Kirchhoff si facilitan y se pueden usar para calcular la corriente y el voltaje que pasa por los componentes de un circuito mixto, no obstante para la formulación de ecuaciones especificamente en la Tabla 1.1 se debe considerar el calculo por mallas que en este caso son 2, de lo contrario se plantearián ecuaciones dependientes lo cual no proporciona ninguna solución. 
+- Se logró comprobar mediante mediciones y cálculos realizados lo establecido por la ley de Kirchhoff referente a los voltajes que dice que en un circuito, la suma de todas las caídas de voltaje localizadas en una trayectoria cerrada única es igual al voltaje de fuente total. Además, se observó la importancia de conocer la ley de Ohm y saber aplicarla ya que esta es la base para realizar posteriores cálculos. 
 
 1.8. BIBLIOGRAFÍA
 
