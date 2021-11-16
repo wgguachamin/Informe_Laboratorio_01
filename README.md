@@ -155,6 +155,14 @@ Por lo que la tabla completa con los valores es:
 
 1.5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+Como resultado de este laboratorio se tiene que el momento de realizar los calculos se debe tener en cuenta siempre a las mallas y a los nodos del circuito, de lo contrario puede llegar a ser insuficiente los datos o simplemente las ecuaciones se podrían tornar dependientes por lo cual ya no se optendría las respuestas requeridas.
+
+Con referencia a la Tabla 1.1 del informe se puede determinar que efectivamente la Leyes de Kirchhoff si ayudan o facilitan el calculo para encontrar la corriente y el voltaje en cada componente del circuito esto quedo demostrado al momento de calcular el error dado que su porcentaje no es mayor al 0.5%.
+
+Por otro lado las Leyes de Kirchhoff facilitan el análisis y la resolución de circuitos complejos de forma fácil y ágil, cabe recalcar que todo esto hace de igual forma referencia a los nodos y mallas. A su vez todo el laboratorio brinda a los estudiantes o cualquier persona la experiencia de trabajar con circuitos mixtos (es decir, son conectados en serie y paralelo).
+
+Por último como se mencionó anteriormente las Leyes de Kirchhoff si quedan comprobadas con este laboratorio ,debido a que los errores presentados en las cantidades ubicadas en las tablas son existentes, ya que durante los calculos se puede afectar pero de forma mínima al valor final, no obstante este no debe variar demasiado.
+
 Para el calculo de los errores se utilizará la siguiente formula:
 
 ![image](https://user-images.githubusercontent.com/94008521/141880975-303fb527-075b-4419-8a3f-0e0dec05c811.png)
