@@ -147,6 +147,7 @@ Ahora aplicando las siguiente definiciones de circuitos series y paralelo.
 
 Se tiene que el voltaje y la corriente en cada resistencia es: 
 
+![image](https://user-images.githubusercontent.com/94008521/141879028-9b746d92-d385-43d9-bb07-d9258fe31ff5.png)
 
 1.5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
