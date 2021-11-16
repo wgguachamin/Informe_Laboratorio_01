@@ -84,7 +84,21 @@ PASO 4: Continúa alrededor de la malla hasta que regreses al punto de partida y
 
 LEY DE VOLTAJE DE KIRCHHOFF
 
+Esta Ley dice que la suma de los voltajes alrededor de una malla es igual a cero. Se lo puede representar como:
 
+![image](https://user-images.githubusercontent.com/94008521/141874092-6fc57f1b-9fb3-4587-8b3c-77e4443e82b2.png)
+
+Donde n es el número de voltajes de los componentes en la malla.
+
+Si se requiere que la Ley de Kirchhoff para una malla se tiene que:
+
+![image](https://user-images.githubusercontent.com/94008521/141874357-94e5f0f1-84bf-48be-8d5f-cdc459e81734.png)
+
+Esta Ley poseé algunas propiedades:
+
+- Si caminas alrededor de la malla y terminas en el nodo inicial, la suma de los voltajes de la malla es igual a cero.
+- Puedes recorrer la malla en cualquier dirección y la ley de voltaje de Kirchhoff conserva su validez.
+- Si un circuito tiene múltiples mallas, la ley de voltaje de Kirchhoff es válida para cada una.
 
 1.4. EXPLICACIÓN DEL PROCEDIMIENTO
 
