@@ -149,6 +149,10 @@ Se tiene que el voltaje y la corriente en cada resistencia es:
 
 ![image](https://user-images.githubusercontent.com/94008521/141879028-9b746d92-d385-43d9-bb07-d9258fe31ff5.png)
 
+Por lo que la tabla completa con los valores es:
+
+![image](https://user-images.githubusercontent.com/94008521/141879377-0c0f702e-db98-4ba8-9bfd-1a9688f9535f.png)
+
 1.5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 1.6. VIDEO
