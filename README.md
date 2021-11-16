@@ -51,7 +51,7 @@ VOLTAJE ALREDEDOR DE UNA MALLA
 
 A continuación se muestra un un circuito con cuatro resistores y una fuente de voltaje.
 
-![image](https://user-images.githubusercontent.com/94008521/141872533-589eff7c-2305-4ba6-8dd6-038f3f511d29.png)
+![image](https://user-images.githubusercontent.com/94008521/141873838-ed370456-fe31-499c-a07f-3a9cb5c96d99.png)
 
 Solo viendo el circuito se lo identifico como un circuito en serie, por lo tanto, se tien que por el solo fluye una corriente, i, a través de los 5 componentes. Realizamos lo siguiente como encontrar i:
 
