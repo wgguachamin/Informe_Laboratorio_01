@@ -243,9 +243,12 @@ https://youtu.be/BfetnMlSNZE
 
 - Como conclusión se tiene las Leyes de Kirchhoff si facilitan y se pueden usar para calcular la corriente y el voltaje que pasa por los componentes de un circuito mixto, no obstante para la formulación de ecuaciones especificamente en la Tabla 1.1 se debe considerar el calculo por mallas que en este caso son 2, de lo contrario se plantearián ecuaciones dependientes lo cual no proporciona ninguna solución.
 -  Se logró comprobar mediante mediciones y cálculos realizados lo establecido por la ley de Kirchhoff referente a los voltajes que dice que en un circuito, la suma de todas las caídas de voltaje localizadas en una trayectoria cerrada única es igual al voltaje de fuente total. Además, se observó la importancia de conocer la ley de Ohm y saber aplicarla ya que esta es la base para realizar posteriores cálculos. 
+-  Al momento de proponer las ecuaciones para los calculos hay que tener cuidado, puesto que , si solo se eligen las ecuaciones que hay en cada malla y no los que estan en los nodos, pueden ser  erroreas y no las suficientes para el calculo de dichas corrientes.
+- Hay que tener cuidado en el momento de elegir las ecuaciones, ya que, si solo se eligen ecuaciones de mayas y no de nodos, estas pueden ser linealmente dependientes y no serán suficientes para calcular dichas corrientes
+- La diferencia entre los valores obtenidos con los valores presentes en el simulador  debe ser relativamente pequeña,  ya en la teoría usamos un máximo de dos decimales ientras que el simulador se desconoce los decimales  con cuales se trabajo.
 
 
-
+1.8. BLIBLIOGRAFIAS
 -	Acosta, I. (19 de Marzo de 2016). Obtenido de https://geekelectronica.com/leyes-de-kirchhoff/
 -	Arencibia, J. (12 de Marzo de 2014). Obtenido de https://www3.gobiernodecanarias.org/medusa/ecoblog/fsancac/2014/03/12/leyes-de-kirchhoff/
 -	González, V. (26 de Marzo de 2020). Obtenido de https://piensa3d.com/ley-voltaje-kirchhoff-metodo-mallas/
