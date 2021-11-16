@@ -191,6 +191,8 @@ Para el voltaje en cada resistencia se tiene que:
 
 1.6. VIDEO
 
+https://youtu.be/BfetnMlSNZE
+
 1.7. CONCLUSIONES
 
 - Como conclusión se tiene las Leyes de Kirchhoff si facilitan y se pueden usar para calcular la corriente y el voltaje que pasa por los componentes de un circuito mixto, no obstante para la formulación de ecuaciones especificamente en la Tabla 1.1 se debe considerar el calculo por mallas que en este caso son 2, de lo contrario se plantearián ecuaciones dependientes lo cual no proporciona ninguna solución. 
