@@ -35,7 +35,13 @@ Obrservando netamente la corriente de la rama i1 se tiene que, esta puede fluir 
 
 *NOTA:la corriente tiene que salir del nodo por una o más de las ramas restantes.*
 
-Para el nodo presentado 
+Para el nodo presentado en el ejemplo se tiene que:
+
+![image](https://user-images.githubusercontent.com/94008521/141871778-d194c8b8-fe2a-4c23-80a1-4dd6582ba915.png)
+
+Cabe mencionar que si la corriente i1 es positiva  y fluye hacia adentro del nodo, entonces una o más de las corrientes debe fluir hacia afuera.
+
+#La Ley de corriente de Kirchhoff#
 
 1.4. EXPLICACIÓN DEL PROCEDIMIENTO
 
