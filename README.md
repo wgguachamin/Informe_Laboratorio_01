@@ -114,6 +114,38 @@ Esta Ley poseé algunas propiedades:
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
+![image](https://user-images.githubusercontent.com/94008521/141877995-9055f06f-3e77-4481-bf45-a9da0325591c.png)
+
+![image](https://user-images.githubusercontent.com/94008521/141876411-7ee793cd-4ee3-4475-9ce7-acbba8f42e05.png)
+
+Ahora procedemos a realizar los calculos de los valores de voltajes y corrientes:
+
+![image](https://user-images.githubusercontent.com/94008521/141876767-a4377eac-4988-43e0-a528-47a4ffa2d46a.png)
+
+Los siguiente valores obtenidos son aplicando la Ley de Voltajes de Kirchhoff:
+
+Para poder determinar el voltaje que existe en cada resistencia se debe calcular la intensidad que pasa por cada malla:
+
+MALLA 1:
+
+![image](https://user-images.githubusercontent.com/94008521/141877326-768a93c6-a38b-4f76-916d-324eb32cac16.png)
+
+MALLA 2:
+
+![image](https://user-images.githubusercontent.com/94008521/141877712-3cd548aa-23e7-4a76-8450-e6edeb1bbccb.png)
+
+Por lo cual al resolver las ecuaciones (1) y (2) a través de un sistema de ecuaciones se tiene que:
+
+![image](https://user-images.githubusercontent.com/94008521/141877920-cf92a3e0-08e9-41ac-a247-fef9eab8bf28.png)
+
+Ahora aplicando las siguiente definiciones de circuitos series y paralelo.
+
+- En los circuitos en serie, la corriente es la misma para todos los elementos.
+- En un circuito en serie, el voltaje es la suma de todos los voltajes en los componentes.
+- En los circuitos en paralelo, la intensidad de corriente se distribuye entre cada rama, siendo la suma de todas las intensidades igual a la total.
+- En los circuitos en paralelo, la tensión es la misma para todos los elementos.
+
+
 1.5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 1.6. VIDEO
