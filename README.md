@@ -41,7 +41,50 @@ Para el nodo presentado en el ejemplo se tiene que:
 
 Cabe mencionar que si la corriente i1 es positiva  y fluye hacia adentro del nodo, entonces una o más de las corrientes debe fluir hacia afuera.
 
-#La Ley de corriente de Kirchhoff#
+LA LEY DE CORRIENTE DE KIRCHHOFF
+
+Esta ley menciona que la suma de todas las corrientes que fluyen hacia un nodo es igual a la suma de las corrientes que salen del nodo. Por consiguiente se tiene que:
+
+![image](https://user-images.githubusercontent.com/94008521/141872119-9a7ee94e-ace7-42e9-8bc2-a4737cfd7b26.png)
+
+VOLTAJE ALREDEDOR DE UNA MALLA
+
+A continuación se muestra un un circuito con cuatro resistores y una fuente de voltaje.
+
+![image](https://user-images.githubusercontent.com/94008521/141872533-589eff7c-2305-4ba6-8dd6-038f3f511d29.png)
+
+Solo viendo el circuito se lo identifico como un circuito en serie, por lo tanto, se tien que por el solo fluye una corriente, i, a través de los 5 componentes. Realizamos lo siguiente como encontrar i:
+
+![image](https://user-images.githubusercontent.com/94008521/141872827-f8b4c708-8186-4a11-b80b-9f1ed65dc52b.png)
+
+Por medio de la ley de Ohm, la corriente es:
+
+![image](https://user-images.githubusercontent.com/94008521/141872858-d1083e4b-216c-4441-9103-b64b3e3c07e6.png)
+
+Ahora que se encontro la corriente que paso por el circuito, prosedemos a calcular el voltaje de cada componente:
+
+![image](https://user-images.githubusercontent.com/94008521/141872942-df5390dd-031a-456a-b177-8b2049a473c6.png)
+
+![image](https://user-images.githubusercontent.com/94008521/141873015-26882b67-dad1-495b-8089-4fe7dd20ec9e.png)
+
+PROCEDIMIENTO: SUMA TODOS LOS VOLTAJES DE LOS COMPONENTES ALREDEDOR DE LA MALLA
+
+PASO 1: Se debe seleccionar un nodo inicial.
+
+PASO 2: Se selecciones la dirección para recorrer la malla.
+
+PASO 3: Comienza el recorrida por la malla.
+
+Se debe tomar en cuenta lo siguiente:
+
+- Si el signo es ++plus, entonces habrá una bajada en el voltaje a través del componente. Resta el voltaje del componente.
+- Si el signo es -−minus, entonces habrá una subida en el voltaje a través del componente. Suma el voltaje del componente.
+
+PASO 4: Continúa alrededor de la malla hasta que regreses al punto de partida y hayas considerado todos los componentes.
+
+LEY DE VOLTAJE DE KIRCHHOFF
+
+
 
 1.4. EXPLICACIÓN DEL PROCEDIMIENTO
 
