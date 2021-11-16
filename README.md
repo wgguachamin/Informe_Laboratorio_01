@@ -207,21 +207,32 @@ Como último punto a tratar de la sección 1.5.3, se mostrará la realización y
 1.5.4.	Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3 . 
     
 - Para el Nodo 1 
+
 La intensidad de corriente en el Nodo 1 va a ser igual a la intensidad
+
 
 ![image](https://user-images.githubusercontent.com/93415377/142005148-b05e62c7-4a99-449c-a21a-09e3051d87a0.png)
 
 - Para el Nodo 2
+
+
 ![image](https://user-images.githubusercontent.com/93415377/142015880-075a65cd-5bff-48c3-a834-d08f791b95ac.png)
 
 - Para el Nodo 3
+
+
 ![image](https://user-images.githubusercontent.com/93415377/142018890-2c21c3f8-0d0d-4d70-8572-a5a7000cb85c.png)
 
 - Para el Nodo 4
+
+
 ![image](https://user-images.githubusercontent.com/93415377/142020627-715acc1e-aa8b-4eb8-ae31-66e38672ef58.png)
 
-- Para el Nodo 5
+- Para el Nodo 5 
+
+
 ![image](https://user-images.githubusercontent.com/93415377/142020973-a2d7ca88-c85d-48b5-9fcb-0f0980111b42.png)
+
 
 
 
