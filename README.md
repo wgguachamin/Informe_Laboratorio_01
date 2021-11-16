@@ -155,6 +155,18 @@ Por lo que la tabla completa con los valores es:
 
 1.5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+Para el calculo de los errores se utilizará la siguiente formula:
+
+![image](https://user-images.githubusercontent.com/94008521/141880975-303fb527-075b-4419-8a3f-0e0dec05c811.png)
+
+Para la intensidad de corriente en las resistencias se tiene:
+
+![image](https://user-images.githubusercontent.com/94008521/141881076-6bdaf5fc-952d-4280-82de-b0d9bd0bdd67.png)
+
+Para el voltaje en cada resistencia se tiene que:
+
+![image](https://user-images.githubusercontent.com/94008521/141881264-65bb3961-5562-4d31-9286-159692374ca4.png)
+
 1.6. VIDEO
 
 1.7. CONCLUSIONES
